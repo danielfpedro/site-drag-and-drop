@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3 text-center">
 				<img
-					src="https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png"
+					src="https://cdn4.iconfinder.com/data/icons/ballicons-2-free/100/like-128.png"
 					class="element-image selectable"
 					width="80">
 				<h3 class="element-text selectable">Loren Ipsum Dolor</h3>
